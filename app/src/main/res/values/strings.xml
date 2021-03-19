@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KFeedReader</string>
+    <string name="card_image">card image</string>
+    <string name="autor_item_list_label">Autor</string>
+    <string name="data_pub_item_list_label">Data Pub</string>
+    <string name="ver_mais_item_list_label">Ver mais</string>
+    <string name="titulo_item_list_label">Titulo</string>
+</resources>
