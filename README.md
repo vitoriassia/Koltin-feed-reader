@@ -9,10 +9,10 @@ Sweet Button aplicate in a Screen with style  personalizate
     <table>
         <tr>
             <td style="text-align: center">
-                    <img src="https://github.com/vitoriassia/Koltin-feed-reader/blob/main/app/src/main/res/github_images/print1.jpeg" >
+                    <img src="https://github.com/vitoriassia/Koltin-feed-reader/blob/main/app/src/main/res/github_images/print2.jpeg" >
             </td>
             <td style="text-align: center">
-                <img src="https://github.com/vitoriassia/Koltin-feed-reader/blob/main/app/src/main/res/github_images/print2.jpeg" />
+                <img src="https://github.com/vitoriassia/Koltin-feed-reader/blob/main/app/src/main/res/github_images/print1.jpeg" />
             </td>
         </tr>
     </table>
