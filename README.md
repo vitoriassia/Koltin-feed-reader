@@ -1,9 +1,7 @@
 # Koltin-feed-reader
 Um aplicativo leitor de Feed/RSS que utiliza vários recursos muito legais do Kotlin para desenvolvimento Android.
 
-# Sweet Button in a Screen :
-
-Sweet Button aplicate in a Screen with style  personalizate
+# Screen :
 
 <div style="text-align: center">
     <table>
